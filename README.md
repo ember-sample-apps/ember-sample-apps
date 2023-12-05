@@ -1,7 +1,7 @@
 # ember-sample-apps
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+![Ember Sample Apps](https://github.com/ember-sample-apps/ember-sample-apps/assets/4587451/88ea4dcd-ecc6-4f16-bffb-7b3236339d8b)
+
 
 ## Prerequisites
 
